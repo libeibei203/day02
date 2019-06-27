@@ -1,0 +1,6 @@
+div{color: rgb(255, 0, 0);font-size: 100px}
+.left{color: white;border: pink}
+#t1{color: skyblue}
+#t2,.right{border:1px solid #ccc}
+.header li{color: red}
+ul>li:hover{border:violet }
